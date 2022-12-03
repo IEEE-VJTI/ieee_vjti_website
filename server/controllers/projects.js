@@ -1,6 +1,6 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import ProjectsModel from '../models/Projects.js';
+import ProjectsModel from '../models/projects.js';
 
 const router = express.Router();
 

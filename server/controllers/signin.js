@@ -3,7 +3,7 @@ import express from 'express';
 import jwt from 'jsonwebtoken';
 import mongoose from 'mongoose';
 
-import AdminModel from "../models/Admin.js";
+import AdminModel from "../models/admin.js";
 const secret = 'test';
 
 const router = express.Router();

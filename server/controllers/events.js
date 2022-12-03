@@ -1,6 +1,6 @@
 import express from 'express';
 import mongoose from 'mongoose';
-import EventsModel from '../models/Events.js';
+import EventsModel from '../models/events.js';
 
 const router = express.Router();
 
