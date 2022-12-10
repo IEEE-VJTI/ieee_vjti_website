@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "https://ieeevjtiserver.herokuapp.com" });
+const API = axios.create({ baseURL: "https://ieee-backend-seven.vercel.app" });
 
 API.interceptors.request.use((req) => {
     if (localStorage.getItem("profile")) {
