@@ -97,7 +97,7 @@ const Footer = () => {
             </div>
           </div>
           <hr className="horizontal_line" />
-          <p className="text-center">Copyright &copy;IEEE VJTI 2021</p>
+          <p className="text-center">Copyright &copy;IEEE VJTI 2023</p>
         </footer>
 
         
